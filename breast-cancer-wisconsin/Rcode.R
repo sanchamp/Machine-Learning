@@ -1,3 +1,4 @@
+# Ref and thanks to Dr Shirin Glander
 library(tidyverse)
 #loading data
 bc_data<-read.table("dataset/breast-cancer-wisconsin.data.txt", header=FALSE, sep=",")
